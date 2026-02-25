@@ -21,8 +21,8 @@ This project simulates real-world banking operations like account creation, depo
 ---
 
 ## 🔑 Admin Login Credentials
-Username: admin
-Password: 1234
+- Username: admin
+- Password: 1234
 
 
 ---
@@ -119,5 +119,6 @@ Suitable for:
 Aswath S
 
 ---
+
 
 ⭐ If you found this project useful, consider giving it a star!
