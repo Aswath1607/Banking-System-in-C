@@ -59,20 +59,19 @@ Banking-System-in-C/
 ## 🖼 Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](Screenshots/login.png)
 
 ### 📋 Main Menu
-![Main Menu](screenshots/menu.png)
+![Main Menu](Screenshots/menu.png)
 
 ### 🆕 Create Account
-![Create Account](screenshots/create.png)
+![Create Account](Screenshots/create.png)
 
 ### 📊 Display Accounts
-![Display Accounts](screenshots/display.png)
+![Display Accounts](Screenshots/display.png)
 
 ### ❌ Delete Account
-![Delete Account](screenshots/delete.png)
-
+![Delete Account](Screenshots/delete.png)
 ---
 
 ## ⚙ How to Run
@@ -135,3 +134,4 @@ Suitable for:
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
+
