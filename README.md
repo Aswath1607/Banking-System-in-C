@@ -1,7 +1,5 @@
 # 🏦 Banking System in C
 
-[![Run on Replit](https://replit.com/badge/github/Aswath1607/Banking-System-in-C)](https://replit.com/@aswath1607/Banking-System-in-C)
-
 A professional console-based **Banking Management System** developed using **C language** with file handling and structured programming concepts.
 
 This project simulates real-world banking operations such as account creation, deposits, withdrawals, balance checking, and account deletion with secure admin login authentication.
@@ -136,5 +134,6 @@ Suitable for:
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
+
 
 
