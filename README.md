@@ -1,98 +1,111 @@
 # 🏦 Banking System in C
 
-A professional console-based Banking Management System developed using **C language** with file handling and structured programming concepts.
+A professional console-based **Banking Management System** developed using **C language** with file handling and structured programming concepts.
 
-This project simulates real-world banking operations like account creation, deposits, withdrawals, balance checking, and account deletion with secure admin login access.
+This project simulates real-world banking operations such as account creation, deposits, withdrawals, balance checking, and account deletion with secure admin login authentication.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 Admin Login Authentication
-- 🆕 Create New Bank Account
-- 💰 Deposit Money
-- 💸 Withdraw Money
-- 📊 Check Account Balance
-- 📋 Display All Accounts
-- ❌ Delete Account
-- 💾 Persistent Data Storage using File Handling
-- 🖥 Professional CLI User Interface
+- 🔐 Admin Login Authentication  
+- 🆕 Create New Bank Account  
+- 💰 Deposit Money  
+- 💸 Withdraw Money  
+- 📊 Check Account Balance  
+- 📋 Display All Accounts  
+- ❌ Delete Account  
+- 💾 Persistent Data Storage using Binary File Handling  
+- 🖥 Professional CLI User Interface  
 
 ---
 
 ## 🔑 Admin Login Credentials
-- Username: admin
-- Password: 1234
 
+```
+Username: admin
+Password: 1234
+```
 
 ---
 
 ## 🛠 Technologies Used
 
-- C Programming Language
-- Structures
-- File Handling (Binary Files)
-- Standard I/O Library
-- Console-based UI Design
+- C Programming Language  
+- Structures  
+- File Handling (Binary Files)  
+- Standard I/O Library  
+- Console-based UI Design  
 
 ---
 
 ## 📂 Project Structure
+
+```
 Banking-System-in-C/
 │
 ├── main.c
 ├── README.md
 └── screenshots/
-├── login.png
-├── menu.png
-├── create.png
-├── display.png
-└── delete.png
-
+    ├── login.png
+    ├── menu.png
+    ├── create.png
+    ├── display.png
+    └── delete.png
+```
 
 ---
 
 ## 🖼 Screenshots
 
 ### 🔐 Login Screen
-![Login](screenshots/login.png)
+![Login Screen](screenshots/login.png)
 
 ### 📋 Main Menu
-![Menu](screenshots/menu.png)
+![Main Menu](screenshots/menu.png)
 
 ### 🆕 Create Account
-![Create](screenshots/create.png)
+![Create Account](screenshots/create.png)
 
 ### 📊 Display Accounts
-![Display](screenshots/display.png)
+![Display Accounts](screenshots/display.png)
 
 ### ❌ Delete Account
-![Delete](screenshots/delete.png)
+![Delete Account](screenshots/delete.png)
 
 ---
 
 ## ⚙ How to Run
 
 ### 🔹 Compile the Program
-gcc main.c -o bank
 
+```bash
+gcc main.c -o bank
+```
 
 ### 🔹 Run the Program
 
-./bank
+For Windows:
+```bash
+bank
+```
 
+For Linux/Mac:
+```bash
+./bank
+```
 
 ---
 
 ## 🎯 Concepts Demonstrated
 
-- Structured Programming
-- Data Management using Files
-- Record Searching & Updating
-- Temporary File Usage for Deletion
-- User Authentication Logic
-- Memory Handling
-- Console UI Design
+- Structured Programming  
+- Data Management using Files  
+- Record Searching & Updating  
+- Temporary File Usage for Deletion  
+- User Authentication Logic  
+- Memory Handling  
+- Console UI Design  
 
 ---
 
@@ -100,25 +113,25 @@ gcc main.c -o bank
 
 This project demonstrates strong fundamentals in:
 
-- Core C Programming
-- File Management Systems
-- Real-world Simulation Logic
-- Problem Solving
-- Software Structure Design
+- Core C Programming  
+- File Management Systems  
+- Real-world Simulation Logic  
+- Problem Solving  
+- Software Structure Design  
 
 Suitable for:
-- 💼 Core Company Interviews
-- 💻 IT/Software Roles
-- 🎓 Academic Mini Project Submission
-- 🚀 GitHub Portfolio Enhancement
+
+- 💼 Core Company Interviews  
+- 💻 IT/Software Roles  
+- 🎓 Academic Mini Project Submission  
+- 🚀 GitHub Portfolio Enhancement  
 
 ---
 
 ## 👨‍💻 Developed By
 
-Aswath S
+**Aswath S**
 
 ---
-
 
 ⭐ If you found this project useful, consider giving it a star!
